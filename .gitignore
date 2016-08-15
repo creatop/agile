@@ -1,0 +1,14 @@
+*.db
+@*.*
+~*.*
+**/@*/
+**/_notes/
+/smartupfiles
+/upfiles
+.sass-cache/
+*.css.map
+/include/php_script/common.php
+/include/php_script/*common.php
+/include/php_script/sql/Mysql_class.php
+/include/php_script/sql/Mysqli_class.php
+/admin/TreeList.php
